@@ -1,0 +1,39 @@
+body {
+	background-color: #f7e7ce;
+	font-family: 'Roboto Mono', sans-serif;
+}
+
+.heading {
+	justify-content:center;
+	text-align:center;
+	padding: 50px;
+}
+
+.foundersacademy {
+	color:blue;
+}
+
+.envelope {
+	text-align:center;
+}
+
+.linkedin {
+	text-align:center;
+}
+
+.medium {
+	text-align:center;
+}
+
+.row {
+	padding: 50px;
+}
+
+.main-paragraph {
+	text-align: justify
+}
+
+a:link
+{
+color:black;
+}
